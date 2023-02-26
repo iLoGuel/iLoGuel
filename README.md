@@ -1,14 +1,29 @@
-<h1 align="center">Hi 👋, I'm Miguel</h1>
-<h3 align="center">Software Programming Technician</h3>
+# Mi perfil como programador junior
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iloguel&label=Profile%20views&color=0e75b6&style=flat" alt="iloguel" /> </p>
+¡Hola! Soy un programador junior apasionado por la tecnología y el desarrollo de software. Estoy en constante aprendizaje y buscando nuevas oportunidades para mejorar mis habilidades y crecer como profesional.
 
-- 📫 How to reach me **malopez4010@gmail.com**
+## Habilidades
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/loguel.jpg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="loguel.jpg" height="30" width="40" /></a>
-</p>
+- Lenguajes de programación: Java, Python, JavaScript
+- Frameworks: Spring, Django, React
+- Bases de datos: MySQL, MongoDB, PostgreSQL
+- Control de versiones: Git
+- Metodologías ágiles: Scrum
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## Proyectos destacados
+
+- **Proyecto A**: Desarrollo de una aplicación web con Spring y MySQL para gestionar las ventas de una tienda online.
+- **Proyecto B**: Creación de una aplicación de chat en tiempo real utilizando Node.js, Socket.io y MongoDB.
+- **Proyecto C**: Desarrollo de un sitio web dinámico con React y Django para visualizar datos de una base de datos.
+
+## Educación
+
+- Licenciatura en Ingeniería en Sistemas Computacionales en la Universidad Nacional Autónoma de México (UNAM)
+- Cursos en línea en plataformas como Udemy y Coursera para seguir aprendiendo y actualizándome en nuevas tecnologías.
+
+## Contacto
+
+Si estás interesado en conocer más acerca de mis habilidades y proyectos, por favor no dudes en contactarme por medio de mi correo electrónico o mi perfil en LinkedIn.
+
+- Correo electrónico: [tu_correo_electrónico](mailto:tu_correo_electrónico@gmail.com)
+- LinkedIn: [tu_perfil_en_LinkedIn](https://www.linkedin.com/in/tu_perfil_en_LinkedIn/)
