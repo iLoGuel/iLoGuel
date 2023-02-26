@@ -11,7 +11,7 @@
 
 ## Educación
 
-- Técnico en Información y servicio al CLiente.
+- Graduado como Técnico en Información y Servicio al Cliente en el Servicio Nacional de Aprendizaje (SENA).
 - Actualmente me desempeño como aprendiz del Técnico en Desarrollo de Software en Servicio Nacional de Aprendizaje (SENA).
 
 ## Contacto
