@@ -18,5 +18,4 @@
 
 Si estás interesado en conocer más acerca de mis habilidades, por favor no dudes en contactarme por medio de mi correo electrónico o mi perfil en LinkedIn.
 
-- Correo electrónico: [tu_correo_electrónico](mailto:miguelangellopezlaverde@gmail.com)
-- LinkedIn: [tu_perfil_en_LinkedIn](https://www.linkedin.com/in/tu_perfil_en_LinkedIn/)
+- Correo electrónico: [miguelangellopezlaverde@gmail.com](mailto:miguelangellopezlaverde@gmail.com)
